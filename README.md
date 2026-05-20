@@ -1,5 +1,6 @@
 # HablaGrizzly
-![HablaGrizzly Logo](./path/to/your/image.png)
+images/grizzly-habla.png
+
 
 <hr>
 
