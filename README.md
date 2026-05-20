@@ -1,6 +1,7 @@
 # HablaGrizzly
-
-![HablaGrizzly Logo](images/grizzly-habla.png)
+<p align="center">
+  <img src="images/grizzly-habla.png" width="300"/>
+</p>
 
 
 <hr>
